@@ -1,1 +1,1 @@
-export type RootStackParamList = { Home: undefined; About: undefined };
+export type RootStackParamList = { Home: undefined; About: { name?: string },Profile:undefined };
